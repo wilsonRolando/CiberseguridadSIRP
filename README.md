@@ -76,17 +76,3 @@ http://localhost
   - clave: **admin**
 
 
- ## Palabras clave
-
-- Incident Response Platform
-- Security Incident Response Platform (SIRP)
-- TheHive
-- Cortex
-- MISP
-- Threat Intelligence
-- Security Operations Center (SOC)
-- DFIR
-- Cybersecurity
-- Elastic Stack
-- Incident Management
-- Wazu
