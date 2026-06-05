@@ -1,8 +1,31 @@
-## Plataforma de Respuesta a incidencias (SIRP)
+## Plataforma Open Source de Respuesta a Incidentes (SIRP) con TheHive, Cortex, MISP, Elastic Stack, Wazuh
+Implementación de una plataforma SIRP basada en TheHive, Cortex, MISP, Wazuh, ELK, Elasticsearch y Kibana para automatizar la detección, correlación y respuesta a incidentes de ciberseguridad.
+
 SIRP es una plataforma diseñada para ayudar a los equipos de seguridad a manejar incidentes y responder de manera eficiente. Permite la integración de múltiples fuentes de datos, como sistemas de detección de intrusiones, herramientas de análisis de vulnerabilidades y otros sistemas de seguridad, para proporcionar una visión completa de los incidentes. Además, automatiza flujos de trabajo, lo que acelera las respuestas y mejora la eficiencia operativa
 
+## Casos de uso
+- Gestión de incidentes de seguridad.
+- Integración de inteligencia de amenazas.
+- Automatización de análisis mediante Cortex.
+- Correlación de eventos mediante ElastAlert.
+- Implementación de laboratorios SOC y DFIR.
+
+## Tecnologías
+- TheHive
+- Cortex
+- MISP
+- Elasticsearch
+- Kibana
+- ElastAlert
+- Filebeat
+- Docker
+- Wazuh
+- Ubuntu
+- Linux
+  
 Este proyecto utiliza herramientas open source para proporcionar una plataforma flexible, escalable y accesible, permitiendo a las organizaciones mejorar su capacidad para detectar, gestionar y mitigar incidentes de seguridad en tiempo real.
 !["diagrama"](https://github.com/wilsonRolando/CiberseguridaSIRP/blob/main/infraestructura.png)
+
 ### Requerimientos 
 - Docker 20.10 +
 - Docker-compose 1.29 +
@@ -51,3 +74,19 @@ http://localhost:9001
 http://localhost
   - usuario: **admin@admin.test**
   - clave: **admin**
+
+
+ ## Palabras clave
+
+- Incident Response Platform
+- Security Incident Response Platform (SIRP)
+- TheHive
+- Cortex
+- MISP
+- Threat Intelligence
+- Security Operations Center (SOC)
+- DFIR
+- Cybersecurity
+- Elastic Stack
+- Incident Management
+- Wazu
